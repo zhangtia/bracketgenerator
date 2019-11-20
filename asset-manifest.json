@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bracketgenerator/static/css/main.b100e6da.chunk.css",
+    "main.js": "/bracketgenerator/static/js/main.00fe2206.chunk.js",
+    "main.js.map": "/bracketgenerator/static/js/main.00fe2206.chunk.js.map",
+    "runtime-main.js": "/bracketgenerator/static/js/runtime-main.952d562c.js",
+    "runtime-main.js.map": "/bracketgenerator/static/js/runtime-main.952d562c.js.map",
+    "static/js/2.188c2de0.chunk.js": "/bracketgenerator/static/js/2.188c2de0.chunk.js",
+    "static/js/2.188c2de0.chunk.js.map": "/bracketgenerator/static/js/2.188c2de0.chunk.js.map",
+    "index.html": "/bracketgenerator/index.html",
+    "precache-manifest.e7a05093a96d17c6c24805f503800962.js": "/bracketgenerator/precache-manifest.e7a05093a96d17c6c24805f503800962.js",
+    "service-worker.js": "/bracketgenerator/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/bracketgenerator/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/bracketgenerator/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.952d562c.js",
+    "static/js/2.188c2de0.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.00fe2206.chunk.js"
+  ]
+}
